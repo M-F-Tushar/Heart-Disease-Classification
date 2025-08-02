@@ -47,6 +47,6 @@ cd Heart-Disease-Classification
 jupyter notebook Heart-Disease-Classification.ipynb
 ```
 3. Run all cells and follow the analysis.
-4. 
+   
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork the repo and submit a pull request.
